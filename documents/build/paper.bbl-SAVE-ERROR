@@ -1,0 +1,289 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{AlgorithmusDiskriminiert}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b1c8ae7ff3493dc718ffbdfe9505632a}{%
+           family={boeckler},
+           familyi={b\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1c8ae7ff3493dc718ffbdfe9505632a}
+      \strng{fullhash}{b1c8ae7ff3493dc718ffbdfe9505632a}
+      \strng{fullhashraw}{b1c8ae7ff3493dc718ffbdfe9505632a}
+      \strng{bibnamehash}{b1c8ae7ff3493dc718ffbdfe9505632a}
+      \strng{authorbibnamehash}{b1c8ae7ff3493dc718ffbdfe9505632a}
+      \strng{authornamehash}{b1c8ae7ff3493dc718ffbdfe9505632a}
+      \strng{authorfullhash}{b1c8ae7ff3493dc718ffbdfe9505632a}
+      \strng{authorfullhashraw}{b1c8ae7ff3493dc718ffbdfe9505632a}
+      \field{sortinit}{b}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.boeckler.de/de/boeckler-impuls-vom-algorithmus-diskriminiert-47283.htm
+      \endverb
+      \verb{url}
+      \verb https://www.boeckler.de/de/boeckler-impuls-vom-algorithmus-diskriminiert-47283.htm
+      \endverb
+    \endentry
+    \entry{KI-Rassismus}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=332fd143cb5182bac2bce6f04b6013ee}{%
+           family={hateaid},
+           familyi={h\bibinitperiod}}}%
+      }
+      \strng{namehash}{332fd143cb5182bac2bce6f04b6013ee}
+      \strng{fullhash}{332fd143cb5182bac2bce6f04b6013ee}
+      \strng{fullhashraw}{332fd143cb5182bac2bce6f04b6013ee}
+      \strng{bibnamehash}{332fd143cb5182bac2bce6f04b6013ee}
+      \strng{authorbibnamehash}{332fd143cb5182bac2bce6f04b6013ee}
+      \strng{authornamehash}{332fd143cb5182bac2bce6f04b6013ee}
+      \strng{authorfullhash}{332fd143cb5182bac2bce6f04b6013ee}
+      \strng{authorfullhashraw}{332fd143cb5182bac2bce6f04b6013ee}
+      \field{sortinit}{h}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{KI-Rassismus}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://hateaid.org/ki-rassismus/
+      \endverb
+      \verb{url}
+      \verb https://hateaid.org/ki-rassismus/
+      \endverb
+    \endentry
+    \entry{DiskriminierendeAlgorithmen}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d7a9063aea253029c5261edde6aa3cd6}{%
+           family={humanrights},
+           familyi={h\bibinitperiod}}}%
+      }
+      \strng{namehash}{d7a9063aea253029c5261edde6aa3cd6}
+      \strng{fullhash}{d7a9063aea253029c5261edde6aa3cd6}
+      \strng{fullhashraw}{d7a9063aea253029c5261edde6aa3cd6}
+      \strng{bibnamehash}{d7a9063aea253029c5261edde6aa3cd6}
+      \strng{authorbibnamehash}{d7a9063aea253029c5261edde6aa3cd6}
+      \strng{authornamehash}{d7a9063aea253029c5261edde6aa3cd6}
+      \strng{authorfullhash}{d7a9063aea253029c5261edde6aa3cd6}
+      \strng{authorfullhashraw}{d7a9063aea253029c5261edde6aa3cd6}
+      \field{sortinit}{h}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{urlday}{5}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.humanrights.ch/de/news/algorithmen-diskriminieren
+      \endverb
+      \verb{url}
+      \verb https://www.humanrights.ch/de/news/algorithmen-diskriminieren
+      \endverb
+    \endentry
+    \entry{social-and-human-rights}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f06dd8c2bbfe08cee252b909f37ac24f}{%
+           family={rechtsthemen},
+           familyi={r\bibinitperiod}}}%
+      }
+      \strng{namehash}{f06dd8c2bbfe08cee252b909f37ac24f}
+      \strng{fullhash}{f06dd8c2bbfe08cee252b909f37ac24f}
+      \strng{fullhashraw}{f06dd8c2bbfe08cee252b909f37ac24f}
+      \strng{bibnamehash}{f06dd8c2bbfe08cee252b909f37ac24f}
+      \strng{authorbibnamehash}{f06dd8c2bbfe08cee252b909f37ac24f}
+      \strng{authornamehash}{f06dd8c2bbfe08cee252b909f37ac24f}
+      \strng{authorfullhash}{f06dd8c2bbfe08cee252b909f37ac24f}
+      \strng{authorfullhashraw}{f06dd8c2bbfe08cee252b909f37ac24f}
+      \field{sortinit}{r}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{urlday}{5}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.cmshs-bloggt.de/rechtsthemen/sustainability/sustainability-social-and-human-rights/wie-diskriminierend-ist-kuenstliche-intelligenz/
+      \endverb
+      \verb{url}
+      \verb https://www.cmshs-bloggt.de/rechtsthemen/sustainability/sustainability-social-and-human-rights/wie-diskriminierend-ist-kuenstliche-intelligenz/
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{AlgorithmusDiskriminiert}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b1c8ae7ff3493dc718ffbdfe9505632a}{%
+           family={boeckler},
+           familyi={b\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1c8ae7ff3493dc718ffbdfe9505632a}
+      \strng{fullhash}{b1c8ae7ff3493dc718ffbdfe9505632a}
+      \strng{fullhashraw}{b1c8ae7ff3493dc718ffbdfe9505632a}
+      \strng{bibnamehash}{b1c8ae7ff3493dc718ffbdfe9505632a}
+      \strng{authorbibnamehash}{b1c8ae7ff3493dc718ffbdfe9505632a}
+      \strng{authornamehash}{b1c8ae7ff3493dc718ffbdfe9505632a}
+      \strng{authorfullhash}{b1c8ae7ff3493dc718ffbdfe9505632a}
+      \strng{authorfullhashraw}{b1c8ae7ff3493dc718ffbdfe9505632a}
+      \field{sortinit}{b}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.boeckler.de/de/boeckler-impuls-vom-algorithmus-diskriminiert-47283.htm
+      \endverb
+      \verb{url}
+      \verb https://www.boeckler.de/de/boeckler-impuls-vom-algorithmus-diskriminiert-47283.htm
+      \endverb
+    \endentry
+    \entry{KI-Rassismus}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=332fd143cb5182bac2bce6f04b6013ee}{%
+           family={hateaid},
+           familyi={h\bibinitperiod}}}%
+      }
+      \strng{namehash}{332fd143cb5182bac2bce6f04b6013ee}
+      \strng{fullhash}{332fd143cb5182bac2bce6f04b6013ee}
+      \strng{fullhashraw}{332fd143cb5182bac2bce6f04b6013ee}
+      \strng{bibnamehash}{332fd143cb5182bac2bce6f04b6013ee}
+      \strng{authorbibnamehash}{332fd143cb5182bac2bce6f04b6013ee}
+      \strng{authornamehash}{332fd143cb5182bac2bce6f04b6013ee}
+      \strng{authorfullhash}{332fd143cb5182bac2bce6f04b6013ee}
+      \strng{authorfullhashraw}{332fd143cb5182bac2bce6f04b6013ee}
+      \field{sortinit}{h}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{KI-Rassismus}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://hateaid.org/ki-rassismus/
+      \endverb
+      \verb{url}
+      \verb https://hateaid.org/ki-rassismus/
+      \endverb
+    \endentry
+    \entry{DiskriminierendeAlgorithmen}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d7a9063aea253029c5261edde6aa3cd6}{%
+           family={humanrights},
+           familyi={h\bibinitperiod}}}%
+      }
+      \strng{namehash}{d7a9063aea253029c5261edde6aa3cd6}
+      \strng{fullhash}{d7a9063aea253029c5261edde6aa3cd6}
+      \strng{fullhashraw}{d7a9063aea253029c5261edde6aa3cd6}
+      \strng{bibnamehash}{d7a9063aea253029c5261edde6aa3cd6}
+      \strng{authorbibnamehash}{d7a9063aea253029c5261edde6aa3cd6}
+      \strng{authornamehash}{d7a9063aea253029c5261edde6aa3cd6}
+      \strng{authorfullhash}{d7a9063aea253029c5261edde6aa3cd6}
+      \strng{authorfullhashraw}{d7a9063aea253029c5261edde6aa3cd6}
+      \field{sortinit}{h}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{urlday}{5}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.humanrights.ch/de/news/algorithmen-diskriminieren
+      \endverb
+      \verb{url}
+      \verb https://www.humanrights.ch/de/news/algorithmen-diskriminieren
+      \endverb
+    \endentry
+    \entry{social-and-human-rights}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f06dd8c2bbfe08cee252b909f37ac24f}{%
+           family={rechtsthemen},
+           familyi={r\bibinitperiod}}}%
+      }
+      \strng{namehash}{f06dd8c2bbfe08cee252b909f37ac24f}
+      \strng{fullhash}{f06dd8c2bbfe08cee252b909f37ac24f}
+      \strng{fullhashraw}{f06dd8c2bbfe08cee252b909f37ac24f}
+      \strng{bibnamehash}{f06dd8c2bbfe08cee252b909f37ac24f}
+      \strng{authorbibnamehash}{f06dd8c2bbfe08cee252b909f37ac24f}
+      \strng{authornamehash}{f06dd8c2bbfe08cee252b909f37ac24f}
+      \strng{authorfullhash}{f06dd8c2bbfe08cee252b909f37ac24f}
+      \strng{authorfullhashraw}{f06dd8c2bbfe08cee252b909f37ac24f}
+      \field{sortinit}{r}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{urlday}{5}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.cmshs-bloggt.de/rechtsthemen/sustainability/sustainability-social-and-human-rights/wie-diskriminierend-ist-kuenstliche-intelligenz/
+      \endverb
+      \verb{url}
+      \verb https://www.cmshs-bloggt.de/rechtsthemen/sustainability/sustainability-social-and-human-rights/wie-diskriminierend-ist-kuenstliche-intelligenz/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
